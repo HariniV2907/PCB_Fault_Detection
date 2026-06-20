@@ -50,18 +50,6 @@ The dataset contains images captured under varying conditions to improve model r
 
 ---
 
-## ⚙️ Data Annotation
-
-PCB defects were annotated using object detection labeling tools such as:
-
-* LabelImg
-* LabelMe
-* MakeSense.ai
-
-Annotations were stored in YOLO format for training and evaluation.
-
----
-
 ## 🤖 Model Development
 
 ### YOLOv8 Architecture
